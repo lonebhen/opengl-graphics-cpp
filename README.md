@@ -27,7 +27,7 @@ If you encounter any issues or have suggestions for new projects, please open an
 
 ## License
 
-This repository is licensed under the MIT License. You are free to use, modify, and distribute the code in this repository for personal or commercial projects. However, please attribute the original author and provide a link to this repository.
+This repository is licensed under the MIT License. You are free to use, modify, and distribute the code in this repository for personal or commercial projects. However, please attribute the original author and provide a link to this repository. lol
 
 ---
 
