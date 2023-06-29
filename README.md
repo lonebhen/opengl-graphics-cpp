@@ -16,7 +16,7 @@ Installation process will be uploaded:
 
 1. **Installation**: How I set up my visual studio will be uploaded later
 
-2. **Cloning the Repository**: Clone this repository to your local machine using the following command: Only the main source code and shader files will be uploaded.
+2. **Cloning the Repository**: Clone this repository to your local machine. Only the main source code, shader files , image or video outputs will be uploaded.
 
 
 ## Contributing
